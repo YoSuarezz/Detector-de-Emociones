@@ -3,6 +3,9 @@ import argparse
 from pathlib import Path
 import logging
 import os
+import matplotlib
+matplotlib.use("Agg")  # backend no interactivo, compatible con servidores
+
 
 import numpy as np
 import torch

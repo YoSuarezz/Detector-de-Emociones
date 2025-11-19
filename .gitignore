@@ -1,0 +1,16 @@
+# datasets pesados
+data/
+items_all.json
+items_preprocessed.json
+
+# preprocesados
+*.pt
+
+# entorno virtual
+.venv/
+venv/
+env/
+
+# cache
+__pycache__/
+*.pyc

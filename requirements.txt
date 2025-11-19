@@ -1,0 +1,12 @@
+# usa pip install -r requirements.txt
+torch-directml
+torchaudio
+librosa
+numpy
+scipy
+scikit-learn
+pandas
+tqdm
+matplotlib
+soundfile
+torchvision
